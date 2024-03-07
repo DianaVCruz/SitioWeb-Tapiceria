@@ -2,7 +2,7 @@
 # 🛠 Upholstery WebSite 🛠
 Website for upholstery, with connection to a database to manage the work.
 It also has an administration module for the site where you can do CRUD. In addition to being a site adapted to dark and light mode, it is completely responsive.
-[Lookat the website](https://tapiceriacruz.000webhostapp.com)
+[Look at the website](https://tapiceriacruz.000webhostapp.com)
 
 ## Authors
 
