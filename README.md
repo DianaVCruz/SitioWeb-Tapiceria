@@ -6,7 +6,7 @@ It also has an administration module for the site where you can do CRUD. In addi
 
 ## Authors
 
-- [@DianaCruz](https://github.com/DianaVCruz)
+- [@DianaCruz](https://github.com/dianacruzpro)
 
 ## 🔧Tech Stack
 
@@ -18,11 +18,14 @@ Give a ⭐ if you like this website!
 <br>
 
 ## Screenshots
-![Tapiceria](https://user-images.githubusercontent.com/98240550/184265338-68d0369c-741d-4002-916b-f4c75adb9bbb.PNG)
-![image](https://user-images.githubusercontent.com/98240550/184265484-5ab7add8-c71e-4974-ac6e-8504dd6ea51b.png)
-![image](https://user-images.githubusercontent.com/98240550/184265932-dace504c-5b20-40d8-85eb-4890552c1547.png) 
-![image](https://user-images.githubusercontent.com/98240550/184266082-c3686a5f-41c7-40a7-a59e-e2322b310a35.png)
-![image](https://user-images.githubusercontent.com/98240550/184266234-ea31fb7f-d9fb-43c8-8d85-d7439818f2d1.png)
+<div align="center">
+  <a href="https://tapiceriacruz.000webhostapp.com" title="Upholstery WebSite | Diana Cruz">
+      <img width="45%" src="./img/tapiceria1.png"></img>
+      <img width="45%" src="./img/tapiceria2.png"></img>
+      <img width="45%" src="./img/tapiceria3.png"></img>
+      <img width="45%" src="./img/tapiceria4.png"></img>
+  </a>
+</div>
 
 
 ## How to use the site
